@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Search Analytics with ML
 - 📫 How to reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at Amazon for AMLC and CSS 2022
+- ✨ UW NSF I-Corps Mentor
 
 <!---
 codinggambit/codinggambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
