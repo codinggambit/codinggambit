@@ -5,7 +5,7 @@
 - 📫 How to reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
 - ✨ UW NSF I-Corps Mentor
-- ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA, 
+- ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA
 
 <!---
 codinggambit/codinggambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
