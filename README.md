@@ -8,6 +8,7 @@
 - ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA
 - ✨ My Alternative Site https://scalar.usc.edu/works/ai-and-ml-research-for-search
 - ✨ Me on Unsplash https://unsplash.com/@travelingzombie
+- ✨ Me on Medium https://medium.com/@sanjaysubbarao 
 - ✨ Replit Profile https://replit.com/@cybernaut88
 
 <!---
