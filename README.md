@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Search Analytics with ML
 - 📫 How to reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
-- ✨ UW NSF I-Corps/ One Rise Startup Mentor
+- ✨ UW NSF I-Corps/ One Rise WEF Startup Mentor
 - ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA
 - ✨ My Alternative Site https://scalar.usc.edu/works/ai-and-ml-research-for-search
 - ✨ Me on Unsplash https://unsplash.com/@travelingzombie
