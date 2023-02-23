@@ -9,6 +9,7 @@
 - ✨ My Alternative Site https://scalar.usc.edu/works/ai-and-ml-research-for-search
 - ✨ Me on Unsplash https://unsplash.com/@travelingzombie
 - ✨ Me on Medium https://medium.com/@sanjaysubbarao 
+- ✨ Me on Netlify https://tpm-blog.netlify.app/ 
 - ✨ Replit Profile https://replit.com/@cybernaut88
 
 <!---
