@@ -2,7 +2,7 @@
 - 👀 I’m interested in Hiking, Solving Problems
 - 🌱 I’m currently learning ML and AI Analytics
 - 💞️ I’m looking to collaborate on Search Analytics with ML
-- 📫 How to reach me @aiwhiz on Linkedin
+- 📫 Reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
 - ✨ UW NSF I-Corps/ One Rise WEF Startup Mentor
 - ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA
