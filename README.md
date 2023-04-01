@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @codinggambit
-- 👀 I’m interested in Hiking, Solving Problems
-- 🌱 I’m currently learning ML and AI Analytics
+- 👀 I’m interested in Solving Intriguing Engineering Problems
+- 🌱 I’m currently building on ML and AI Analytics
 - 💞️ I’m looking to collaborate on Search Analytics with ML
 - 📫 Reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
