@@ -5,6 +5,7 @@
 - 📫 Reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
 - ✨ UW NSF I-Corps/ One Rise WEF Startup Mentor
+- ✨ Amazon Author https://amazon.com/author/nextgenai
 - ✨ Twitter Bots @actsofmagic2day, @Daily_Check_In, @SpreadingMHA
 - ✨ Learning ML and Modeling at https://wandb.ai/jayraohere
 - ✨ My Alternative Site https://scalar.usc.edu/works/ai-and-ml-research-for-search
