@@ -12,6 +12,7 @@
 - ✨ Me on Unsplash https://unsplash.com/@travelingzombie
 - ✨ Me on Medium https://medium.com/@sanjaysubbarao 
 - ✨ Me on Netlify https://tpm-blog.netlify.app/ 
+- ✨ Speaker Profile https://sessionize.com/Sanjay_Subbarao
 - ✨ Replit Profile https://replit.com/@cybernaut88
 - ✨ My Github Site https://codinggambit.github.io/my_polite_inquiries/
 <!---
