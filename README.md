@@ -3,7 +3,7 @@
 - 🌱 I’m currently building on ML and AI Analytics
 - 💞️ I’m looking to collaborate on all things AI and ML
 - 📫 Reach me @aiwhiz on Linkedin
-- ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
+- ✨ Peer Reviewer at IGI Global(IJERTCS), PeerJ and Amazon for AMLC and CSS 2022
 - ✨ UW NSF I-Corps/ One Rise WEF Startup Mentor
 - ✨ Bridge Connections https://brdg.app/to/sanjaysubbarao
 - ✨ Amazon Author https://amazon.com/author/nextgenai
@@ -17,7 +17,4 @@
 - ✨ Speaker Profile https://sessionize.com/Sanjay_Subbarao
 - ✨ Replit Profile https://replit.com/@cybernaut88
 - ✨ My Github Site https://codinggambit.github.io/my_polite_inquiries/
-<!---
-codinggambit/codinggambit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
