@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @codinggambit
 - 👀 I’m interested in Solving Intriguing Engineering Problems
 - 🌱 I’m currently building on ML and AI Analytics
-- 💞️ I’m looking to collaborate on Search Analytics with ML
+- 💞️ I’m looking to collaborate on all things AI and ML
 - 📫 Reach me @aiwhiz on Linkedin
 - ✨ Peer Reviewer at PeerJ and Amazon for AMLC and CSS 2022
 - ✨ UW NSF I-Corps/ One Rise WEF Startup Mentor
