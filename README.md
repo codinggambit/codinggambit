@@ -17,6 +17,6 @@
 - ✨ @Polywork https://www.polywork.com/sanjayatwork
 - ✨ @TopMate https://topmate.io/sanjay_subbarao
 - ✨ Speaker Profile https://sessionize.com/Sanjay_Subbarao
-- ✨ Replit Profile https://replit.com/@cybernaut88
+- ✨ @Replit https://replit.com/@cybernaut88
 - ✨ My Github Site https://codinggambit.github.io/my_polite_inquiries/
 
