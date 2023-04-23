@@ -17,6 +17,7 @@
 - ✨ @BuymeaCoffee https://www.buymeacoffee.com/jayraohere
 - ✨ @Polywork https://www.polywork.com/sanjayatwork
 - ✨ @TopMate https://topmate.io/sanjay_subbarao
+- ✨ @Criya https://criya.site/sanjayatwork
 - ✨ Speaker Profile https://sessionize.com/Sanjay_Subbarao
 - ✨ @Replit https://replit.com/@cybernaut88
 - ✨ My Github Site https://codinggambit.github.io/my_polite_inquiries/
