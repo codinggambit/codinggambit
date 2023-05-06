@@ -21,5 +21,5 @@
 - ✨ Speaker Profile https://sessionize.com/Sanjay_Subbarao
 - ✨ @Replit https://replit.com/@cybernaut88
 - ✨ My Github Site https://codinggambit.github.io/my_polite_inquiries/
-- ✨ Mental Health and Wellness https://mentalhealthatwork.carrd.co/
+- ✨ Mental Health Podcast https://mentalhealthatwork.carrd.co/
 - ✨ Immigrant Profile https://immigrant.carrd.co/
